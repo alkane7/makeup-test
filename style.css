@@ -19,7 +19,7 @@ p {
 /* === Chat Container === */
 #chat {
     border: 0.0625rem solid white; 
-    height: 30rem; 
+    height: 25rem; 
     overflow-y: scroll; 
     padding: 0.625rem; 
     background-color: white; 
